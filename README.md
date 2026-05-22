@@ -22,7 +22,7 @@ University students and campus communities looking to gamify their social intera
 ![Transaction Success](DareDrop-Stellar/assets/tx-success.png)
 
 ## How to Run Locally
-1. Clone: `git clone https://github.com/[leequoming]/[YOUR_REPO].git`
+1. Clone: `git clone https://github.com/leequoming/daredrop-stellar.git`
 2. Build Contract: `stellar contract build`
 3. Deploy: `stellar contract deploy --wasm target/wasm32-unknown-unknown/release/daredrop.wasm --source-account student --network testnet`
 4. Frontend: 
