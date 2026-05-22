@@ -1,6 +1,6 @@
 # 🎯 DareDrop
 
-![DareDrop UI Preview](assets/ui-screenshot.png)
+![DareDrop UI Preview](DareDrop-Stellar/assets/ui-screenshot.png)
 
 ## Problem
 Students frequently challenge each other to fun campus dares, but there is no reliable way to ensure the promised reward is actually paid out upon completion, leading to broken promises and lost bets.
@@ -19,7 +19,7 @@ University students and campus communities looking to gamify their social intera
 - **Contract ID:** `CCFQQES5ENX7LIPEPSUXWVQVU2O7L74CNMGMFQRGTTZJJFNYTVQUPU4P`
 - **Transaction:** [https://stellar.expert/explorer/testnet/tx/649075b341e9e2789375cf28af3c27fa409e98d2f2e835a7ed514ad41f7186eb](https://stellar.expert/explorer/testnet/tx/649075b341e9e2789375cf28af3c27fa409e98d2f2e835a7ed514ad41f7186eb)
 
-![Transaction Success](assets/tx-success.png)
+![Transaction Success](DareDrop-Stellar/assets/tx-success.png)
 
 ## How to Run Locally
 1. Clone: `git clone https://github.com/[leequoming]/[YOUR_REPO].git`
